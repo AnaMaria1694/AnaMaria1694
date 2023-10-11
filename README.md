@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnaMaria1694 FullStack Developer
 - 👀 I’m interested in resolve big challenges
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently writing a blog codigo-artemisa.com
 - 📫 vergaraposada.anamaria5@gmail.com
 
 <!---
